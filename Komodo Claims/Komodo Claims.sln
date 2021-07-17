@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Komodo Claims", "Komodo Claims\Komodo Claims.csproj", "{BE3F0700-FEC8-4E6B-AB2B-947D3698A347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3F0700-FEC8-4E6B-AB2B-947D3698A347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3F0700-FEC8-4E6B-AB2B-947D3698A347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3F0700-FEC8-4E6B-AB2B-947D3698A347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3F0700-FEC8-4E6B-AB2B-947D3698A347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97BA5112-382A-4E50-BCF6-E00F5A9D4AAF}
+	EndGlobalSection
+EndGlobal

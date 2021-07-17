@@ -1,0 +1,7 @@
+C:\Users\mig22\source\repos\KomodoCafeee\KomodoCafeee\bin\Debug\KomodoCafeee.exe.config
+C:\Users\mig22\source\repos\KomodoCafeee\KomodoCafeee\bin\Debug\KomodoCafeee.exe
+C:\Users\mig22\source\repos\KomodoCafeee\KomodoCafeee\bin\Debug\KomodoCafeee.pdb
+C:\Users\mig22\source\repos\KomodoCafeee\KomodoCafeee\obj\Debug\KomodoCafeee.csproj.AssemblyReference.cache
+C:\Users\mig22\source\repos\KomodoCafeee\KomodoCafeee\obj\Debug\KomodoCafeee.csproj.CoreCompileInputs.cache
+C:\Users\mig22\source\repos\KomodoCafeee\KomodoCafeee\obj\Debug\KomodoCafeee.exe
+C:\Users\mig22\source\repos\KomodoCafeee\KomodoCafeee\obj\Debug\KomodoCafeee.pdb
