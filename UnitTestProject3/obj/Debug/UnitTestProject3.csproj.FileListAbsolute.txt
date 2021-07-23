@@ -1,0 +1,17 @@
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\bin\Debug\UnitTestProject3.dll
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\bin\Debug\UnitTestProject3.pdb
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\bin\Debug\KomodoCafeee.exe
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\bin\Debug\KomodoCafeee.pdb
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\bin\Debug\KomodoCafeee.exe.config
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\obj\Debug\UnitTestProject3.csproj.AssemblyReference.cache
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\obj\Debug\UnitTestProject3.csproj.CoreCompileInputs.cache
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\obj\Debug\UnitTestProject3.csproj.CopyComplete
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\obj\Debug\UnitTestProject3.dll
+C:\Users\mig22\source\repos\KomodoCafeee\UnitTestProject3\obj\Debug\UnitTestProject3.pdb

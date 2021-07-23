@@ -14,7 +14,6 @@ namespace KomodoCafeee
         public void AddItemToList(MenuItem item)
         {
             _listofFood.Add(item);
-
         }
 
         //Read
